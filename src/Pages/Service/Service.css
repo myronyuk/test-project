@@ -1,0 +1,47 @@
+.single-service{
+    padding: 40px 30px;
+    box-shadow: 0px 17px 60px #00000012;
+    background: #fff;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    transition: all 0.4s ease;
+}
+.single-service h4{
+    font-size: 20px;
+    margin-top: 30px;
+    text-transform: capitalize;
+    color: #222;
+}
+
+.single-service p{
+    font-size: 16px;
+    margin-top: 30px;
+    color: #333333;
+    margin-top: 15px;
+}
+
+.single-service i{
+    font-size: 2rem;
+    color: #f0c70a;
+}
+
+
+.welcome-service h2{
+    color: #f0c70a;
+    text-transform: capitalize;
+    font-size: 40px;
+    line-height: 36px;
+    font-weight: 600;
+    position: relative;
+    letter-spacing: 1px;
+}
+
+@media screen and (max-width: 576px) {
+    .welcome-service h2 {
+        font-size: 20px;
+    }
+    .single-service h4 {
+        font-size: 18px;
+    }
+
+}

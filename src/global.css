@@ -1,0 +1,28 @@
+.Global-Img{
+    background-position: left bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 700px;
+    position: relative;
+    z-index: 1;
+    background-image: url(../src/mainicone1.jpg);
+    
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.section_padding{
+    padding: 100px 0;
+}
+
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Поднимите выше, чем остальной контент */
+  }

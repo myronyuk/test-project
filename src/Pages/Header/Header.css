@@ -1,0 +1,140 @@
+.navbar-light .navbar-brand {
+    font-size: 32px;
+    font-weight: 800;
+    margin: -5px 10px 10px 0px;
+    letter-spacing: 1px;
+    color: #f0c70a;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+}
+
+.navbar-light .navbar-brand:hover{
+    color: #f0c70a;
+}
+
+.navbar-light .nav-link{
+    color: #f0c70a;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 26px;
+    text-transform: capitalize;
+    transition: all 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.navbar-light .navbar-brand .navbar-brand.active{
+    color: #f0c70a;
+}
+
+.navbar-light .nav-link:hover{
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: #ffffff;
+}
+
+.navbar-default{
+    padding: 15px 0;
+}
+
+.nav-light .nav {
+    background-color: yellow;
+}
+
+.navbar-default{
+    padding: 15px 0;    
+    background-color: transparent; 
+    border: none; 
+}
+
+.Header-Container {
+    background-color: transparent; 
+}
+
+.navbar-light .navbar-brand {
+    font-size: 32px;
+    font-weight: 800;
+    margin: -5px 10px 10px 0px;
+    letter-spacing: 1px;
+    color: #f0c70a;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-brand:hover{
+    color: #f0c70a;
+}
+
+.navbar-light .nav-link{
+    color: #f0c70a;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 26px;
+    text-transform: capitalize;
+    transition: all 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.navbar-light a{
+    color: #f0c70a;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 26px;
+    text-transform: capitalize;
+    transition: all 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.Header-Container i {
+    font-size: 2rem;
+    color: #f0c70a;
+
+}
+
+.navbar-default .navbar-brand {
+    color: #f0c70a;
+}
+
+.navbar-default .navbar-nav .nav-link {
+    transition: color 0.3s ease; 
+    text-decoration: none;
+}
+
+.navbar-default .navbar-nav .nav-link:hover,
+.navbar-default .navbar-nav .nav-link:focus,
+.navbar-default .navbar-nav .nav-link:active {
+    color: #fff; 
+    text-decoration: none; 
+}
+
+.phone-number {
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #f0c70a;
+}
+
+.phone-number span {
+    margin-left: 15px;
+    margin-top: 10px;
+
+
+}
+
+.navbar-default .bg-light{
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggler{
+    background-color: white;
+}

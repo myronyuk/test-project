@@ -1,0 +1,17 @@
+.contact-welcome{
+    color: #f0c70a;
+text-transform: capitalize;
+font-size: 40px;
+line-height: 36px;
+font-weight: 600;
+position: relative;
+letter-spacing: 1px;
+}
+
+@media screen and (max-width: 576px) {
+    .contact-welcome {
+        font-size: 20px;
+    }
+
+}
+

@@ -1,0 +1,60 @@
+.Delivery{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.container-box{
+    padding-top: 40px;
+    border: solid white; 
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.629);
+}
+
+.Delivery-text h2 {
+    color: #f0c70a; 
+}
+
+select {
+    word-wrap: normal;
+    height: 30px;
+    width: 90%;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+input {
+    word-wrap: normal;
+    height: 30px;
+    width: 90%;
+    border-radius: 20px;
+    padding-left: 10px;
+
+}
+
+.Delivery-text{
+    padding-bottom: 20px;
+}
+
+.box{
+    padding-top: 20px;
+}
+
+.box-style
+{
+    padding-top: 43px;
+}
+.btn-style .btn .btn-warning{
+    margin-top: 25px;
+}
+
+.btn-box{
+    padding-bottom: 25px;
+}
+
+
+@media screen and (max-width: 576px) {
+    input {
+        width: 60%;
+    }
+}
